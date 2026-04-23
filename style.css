@@ -2,11 +2,35 @@
 
 /* ======================== CSS Rule #1 */
 html {
-  background-color: rgb(252, 185, 60);
+  background-color: rgb(150, 206, 203);
   padding-left: 20px;
 }
 
 /* ======================== CSS Rule #2 */
 h1 {
   font-family: "Poetsen One", sans-serif;
+}
+
+body{
+
+.Book1{
+  border-radius: 20px; border:3px solid #e27f2200;
+}
+
+.Book2{
+  border-radius: 20px; border:3px solid #e27f2200;
+}
+
+#Book3{
+  border-radius: 20px; border:3px solid #e27f2200;
+}
+
+h3 {
+  color: rgb(160, 90, 5);
+}
+
+h1 {
+  color: darkblue;
+}
+
 }
